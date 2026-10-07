@@ -482,11 +482,11 @@ http://127.0.0.1:5000/
 
 ## 📊 Tableau Dashboard
 
-[View Tableau Dashboard](https://public.tableau.com/views/IndiasCropProductionAnalysisdashboard/AgriculaturalProductionDashboard)
+[View Tableau Dashboard](https://public.tableau.com/views/Dash_17905757110220/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 📖 Tableau Story
 
-[View Tableau Story](https://public.tableau.com/app/profile/prarthana.akhare/viz/Indiascropproductionanalysisstory/IndiasCropProductionAnalysisstory)
+[View Tableau Story](https://public.tableau.com/views/IndiasAgriculturalCropProductionAnalysis_Story/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 💻 GitHub Repository
 
